@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div className='flex flex-col md:flex-row gap-3  '>
       {/* top */}
-      <div className="bg-zinc-900 p-8 rounded-lg md:w-1/2">
+      <div className="bg-zinc-900 p-4 md:p-8 rounded-lg md:w-1/2">
         <h5 className='text-primary'>ABOUT</h5>
         <h3 className='mt-12 text-3xl md:text-4xl '>WHERE FASHION MEETS FREEDOM</h3>
 

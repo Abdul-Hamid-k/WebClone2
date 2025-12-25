@@ -21,7 +21,7 @@ const Offers = () => {
       {/* top */}
       <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
         {offers1.map(offer => (
-          <div className="bg-zinc-900 rounded-lg p-8 flex flex-col justify-between">
+          <div className="bg-zinc-900 rounded-lg p-4 md:p-8 flex flex-col justify-between">
             <div>
               <h2 className='text-primary'>{offer.title}</h2>
               <p className='mt-2 text-gray-500 text-sm'>{offer.desc}</p>

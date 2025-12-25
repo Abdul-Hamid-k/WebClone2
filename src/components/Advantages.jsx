@@ -17,7 +17,7 @@ const Advantages = () => {
         {/* right */}
         <div className="flex flex-col gap-3 md:w-1/2">
           {/* 1 */}
-          <div className="bg-zinc-900 p-8 rounded-lg ">
+          <div className="bg-zinc-900 p-4 md:p-8 rounded-lg ">
             <h3 className='text-lg text-primary'>INDEPENDENT DESIGNERS</h3>
 
             <div className="mt-4 flex text-sm gap-1 md:gap-3 text-gray-500">
@@ -33,7 +33,7 @@ const Advantages = () => {
           </div>
 
           {/* 2 */}
-          <div className="bg-zinc-900 p-8 rounded-lg ">
+          <div className="bg-zinc-900 p-4 md:p-8 rounded-lg ">
             <h3 className='text-lg text-primary'>EXCLUSIVE & UNIQUETY</h3>
 
             <div className="mt-4 flex text-sm gap-1 md:gap-3 text-gray-500">
@@ -55,7 +55,7 @@ const Advantages = () => {
         {/* left */}
         <div className="flex flex-col gap-3 md:w-1/2">
           {/* 1 */}
-          <div className="bg-zinc-900 p-8 rounded-lg ">
+          <div className="bg-zinc-900 p-4 md:p-8 rounded-lg ">
             <h3 className='text-lg text-primary'>INDEPENDENT DESIGNERS</h3>
 
             <div className="mt-4 flex text-sm gap-1 md:gap-3 text-gray-500">
@@ -71,7 +71,7 @@ const Advantages = () => {
           </div>
 
           {/* 2 */}
-          <div className="bg-zinc-900 p-8 rounded-lg ">
+          <div className="bg-zinc-900 p-4 md:p-8 rounded-lg ">
             <h3 className='text-lg text-primary'>EXCLUSIVE & UNIQUETY</h3>
 
             <div className="mt-4 flex text-sm gap-1 md:gap-3 text-gray-500">
