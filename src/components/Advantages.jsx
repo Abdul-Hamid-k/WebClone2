@@ -51,7 +51,7 @@ const Advantages = () => {
       </div>
 
       {/* bottom-2 */}
-      <div className='flex flex-col md:flex-row mt-8 '>
+      <div className='flex flex-col md:flex-row mt-8 gap-3'>
         {/* left */}
         <div className="flex flex-col gap-3 md:w-1/2">
           {/* 1 */}
